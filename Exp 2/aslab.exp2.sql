@@ -12,8 +12,8 @@ CREATE TABLE Employee (
 #2
 INSERT INTO Employee (`code`, `name`, `designation`, `dob`, `salary`)
 VALUES 
-("e2", "John", "Manager", "1990-4-12", 41250),
-("e1","peter", "Sales", "1994-3-22", 18500);
+("e2", "Chris", "Manager", "1985-6-2", 50000),
+("e1","John", "Sales", "1987-7-12", 38500);
 
 #3
 SELECT * FROM Employee;
