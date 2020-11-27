@@ -26,4 +26,4 @@ VALUES (1,'TEACHER','COMPUTER',11,25000),
        
        
 INSERT INTO Instructor(`name`, `code`)
-VALUES ("RAMESH", 111);
+VALUES ("HARI", 232);
